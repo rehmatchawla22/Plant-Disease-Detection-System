@@ -1,0 +1,23 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Large datasets
+dataset/
+plantvillage dataset/
+
+# Jupyter notebooks
+notebooks/
+
+# Helper script
+create_examples.py
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
